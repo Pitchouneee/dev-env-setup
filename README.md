@@ -3,6 +3,14 @@
 ## Overview
 Automated PowerShell script to quickly set up a Windows development environment with essential tools for Java and web development.
 
+## Script Execution
+You can run the script using:
+```powershell
+powershell.exe -ExecutionPolicy Unrestricted ./install-env.ps1
+```
+
+*Note: This is optional and depends on your system's current execution policy settings.*
+
 ## Included Tools
 - Docker Desktop
 - Git
