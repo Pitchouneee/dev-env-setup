@@ -17,6 +17,8 @@ powershell.exe -ExecutionPolicy Unrestricted ./install-env.ps1
 - Maven
 - IntelliJ IDEA Community
 - HeidiSQL
+- Bruno
+- VSCode
 - Multiple JDK versions (11, 17, 21) from Eclipse Temurin
 
 ## Prerequisites
