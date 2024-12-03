@@ -21,6 +21,8 @@ choco install git -y
 choco install maven -y
 choco install intellijidea-community -y
 choco install heidisql -y
+choco install bruno -y
+choco install vscode -y
 
 # Install multiple JDK versions from Eclipse Temurin
 choco install temurin11 -y
